@@ -1,3 +1,3 @@
 function goToApp() {
-    window.location.href = "https://biocontainer-app.netlify.app";
+    window.location.href = "https://biocontainer-frontend.netlify.app";
 }
